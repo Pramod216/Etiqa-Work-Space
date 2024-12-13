@@ -1,0 +1,12 @@
+/plsql_scripts/
+    customers_procedures.sql
+    products_procedures.sql
+/tests/
+    unit_tests.sql
+    integration_tests.sql
+/scheduler/
+    job_schedule_script.sql
+/deployment/
+    deploy_script.sql
+README.md
+.gitignore
